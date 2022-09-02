@@ -1,0 +1,118 @@
+body {
+    background-color: rgba(254, 239, 216, 1);
+    font-family: 'Nanum Myeongjo', serif;
+}
+.seemore {
+    background-color: rgba(255, 152, 92, 1);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background-color: rgba(255, 152, 92, 1);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    font-size: 23px;
+}
+
+.btn-primary:hover {
+    background-color: rgba(255, 152, 92, 1);
+}
+
+.seemore:hover {
+    color: #fff;
+}
+
+.row {
+    margin: 2rem 0rem;
+}
+
+h1 {
+    font-size: 65px;
+    padding: 2rem 0rem;
+}
+
+.introducao h1 {
+    font-size: 5rem;
+}
+
+.introducao img {
+    margin: 20px 0px;
+}
+
+.card {
+    background: none;
+    border: none;
+}
+
+a {
+    color: #000;
+}
+
+a:hover {
+    color: #000;
+}
+
+p {
+    margin: 0;
+}
+
+.card img {
+    height: 250px;
+    width: auto;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.card-yellow {
+    background-color: rgba(254, 214, 180, 0.9);
+}
+
+.card-purple {
+    background-color: rgba(234, 202, 241, 0.9);
+}
+
+.card-blue {
+    background-color: rgba(180, 237, 254, 0.9);
+}
+
+.animal-link .row {
+    margin: 4rem 0rem;
+}
+
+.animal-link .card {
+    margin: 1rem 0rem;
+}
+
+.animal-link h2 {
+    font-family:  'Nanum Myeongjo', serif;
+    position: absolute;
+    top: -20px;
+    left: 20px;
+    font-weight: bold;
+}
+
+.contato label {
+    font-size: 1.2rem;
+    margin: 10px 0px;
+}
+
+.contato button {
+    margin: 10px 0px;
+}
+
+.pets h3{
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.pets img {
+    margin: 2rem 0rem;
+}
